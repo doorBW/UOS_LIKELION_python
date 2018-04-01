@@ -12,14 +12,14 @@
 
 ## CONTENTS
 
-1. 파이썬 기초 문법(1)
+**1. 파이썬 기초 문법(1)**
 	- Python install
 	- Formatting
 	- List Indexing, Slicing
 	- Tuple
 	- Dictionary
 
-2. 파이썬 기초 문법(2)
+2. **파이썬 기초 문법(2)**
 	- Function
 	- File IO
 	- Class
