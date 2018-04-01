@@ -13,27 +13,27 @@
 ## CONTENTS
 
 1. 파이썬 기초 문법(1)
-	Python install
-	Formatting
-	List Indexing, Slicing
-	Tuple
-	Dictionary
+	- Python install
+	- Formatting
+	- List Indexing, Slicing
+	- Tuple
+	- Dictionary
 
 2. 파이썬 기초 문법(2)
-	Function
-	File IO
-	Class
-	Module/Package
-	try, except
+	- Function
+	- File IO
+	- Class
+	- Module/Package
+	- try, except
 
 3. 파이썬 기초 문법(3)
-	Regular expression in Python
-	Basic algorithm problem
+	- Regular expression in Python
+	- Basic algorithm problem
 
 4. Flask를 이용한 웹프로그래밍
-	What is Flask?
-	Flask install
-	Basic skill for Flask
+	- What is Flask?
+	- Flask install
+	- Basic skill for Flask
 
 5. Flask로 웹 크롤링 구현하기
 
