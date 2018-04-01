@@ -12,7 +12,7 @@
 
 ## CONTENTS
 
-**1. 파이썬 기초 문법(1)**
+1. **파이썬 기초 문법(1)**
 	- Python install
 	- Formatting
 	- List Indexing, Slicing
@@ -26,18 +26,18 @@
 	- Module/Package
 	- try, except
 
-3. 파이썬 기초 문법(3)
+3. **파이썬 기초 문법(3)**
 	- Regular expression in Python
 	- Basic algorithm problem
 
-4. Flask를 이용한 웹프로그래밍
+4. **Flask를 이용한 웹프로그래밍**
 	- What is Flask?
 	- Flask install
 	- Basic skill for Flask
 
-5. Flask로 웹 크롤링 구현하기
+5. **Flask로 웹 크롤링 구현하기**
 
 
-6. Flask로 이메일 인증 구현하기
+6. **Flask로 이메일 인증 구현하기**
 
 
