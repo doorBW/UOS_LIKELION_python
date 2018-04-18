@@ -33,6 +33,8 @@
 4. **Flask를 이용한 웹프로그래밍**
 	- What is Flask?
 	- Flask install
+	
+	  http://flask-docs-kr.readthedocs.io/ko/latest/installation.html
 	- Basic skill for Flask
 
 5. **Flask로 이메일 인증을 통한 회원가입 구현하기**
