@@ -13,7 +13,7 @@
 ## CONTENTS
 
 1. **파이썬 기초 문법(1)**
-	- Python install
+	- Python install(선과제)
 	- Formatting
 	- List Indexing, Slicing
 	- Tuple
@@ -35,9 +35,9 @@
 	- Flask install
 	- Basic skill for Flask
 
-5. **Flask로 웹 크롤링 구현하기**
+5. **Flask로 이메일 인증을 통한 회원가입 구현하기**
 
 
-6. **Flask로 이메일 인증 구현하기**
+6. **Flask로 웹 크롤링 구현하기**
 
 
