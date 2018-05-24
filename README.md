@@ -13,33 +13,47 @@
 ## CONTENTS
 
 1. **파이썬 기초 문법(1)**
-	- Python install(선과제)
-	- Formatting
-	- List Indexing, Slicing
-	- Tuple
-	- Dictionary
+  - Python install(선과제)
+  - Formatting
+  - List Indexing, Slicing
+  - Tuple
+  - Dictionary
 
 2. **파이썬 기초 문법(2)**
-	- Function
-	- File IO
-	- Class
-	- Module/Package
-	- try, except
+  - Function
+  - File IO
+  - Class
+  - Module/Package
+  - try, except
 
 3. **파이썬 기초 문법(3)**
-	- Regular expression in Python
-	- Basic algorithm problem
+  - Regular expression in Python
+  - Basic algorithm problem
 
 4. **Flask를 이용한 웹프로그래밍**
-	- What is Flask?
-	- Flask install
-	
-	  http://flask-docs-kr.readthedocs.io/ko/latest/installation.html
-	- Basic skill for Flask
+  - What is Flask?
 
-5. **Flask로 이메일 인증을 통한 회원가입 구현하기**
+  - Flask install
 
+    http://flask-docs-kr.readthedocs.io/ko/latest/installation.html
 
-6. **Flask로 웹 크롤링 구현하기**
+  - Basic skill for Flask
+
+  - 구구단 페이지 만들기
+
+  - 웹 크롤링 구현하기
+
+5. **Flask로 MySQL 다루기(미정)**
+
+   - Flask 와 MySQL 연결하기(미정)
+   - 플라스크로 메일 보내기
+   - 이메일 인증을 통한 회원 가입 구현하기
+
+6. **Flask로 CRUD 다뤄보기(미정)**
+
+   - Create
+   - Read
+   - Update
+   - Delete
 
 
