@@ -1,0 +1,17 @@
+<html>
+    <h1>구구단 풀기!!!</h1>
+    {% if render_answer == None %}
+        <h1> 궁금한 값을 입력하세요! </h1>
+            <form action="/calculate">
+                <input name='input1' type="text"> 곱하기
+                <input name='input2' type="text">
+                <input type="submit">
+            </form>
+    {% else %}
+        <h1>정답은!!!</h1>
+        <h2>{{ render_answer }}</h2>
+        <form action="/">
+            <input type="submit" value='홈으로 돌아가기'>
+        </form>
+    {% endif %}
+</html>
